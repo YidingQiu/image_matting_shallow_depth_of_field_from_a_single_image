@@ -42,8 +42,8 @@ Execute file.
 
 ### Author
 
-Yiding Qiu: <u7175591@anu.edu.au><br>
-Haixu Liu: <u7215510@anu.edu.au><br>
-Wenjia Cheng: <u7234723@anu.edu.au><br>
+Yiding Qiu<br>
+Haixu Liu<br>
+Wenjia Cheng<br>
 
 
